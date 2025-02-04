@@ -78,6 +78,7 @@
         'https://github.com/OCA/purchase-workflow -b 13.0',
         'https://github.com/OCA/delivery-carrier -b 13.0',
 	'https://github.com/OCA/sale-workflow -b 13.0',
+	'https://github.com/OCA/fleet -b 13.0',   
     ],
 
     'docker-images': [
